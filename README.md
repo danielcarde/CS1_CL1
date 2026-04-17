@@ -1,4 +1,4 @@
-# Miner Eats
+# CL1: Miner Eats
 
 A simple console-based ordering system for a fictional dining establishment called "Miner Eats". Customers can view the menu, add food items to their cart, modify their order, and checkout. This lab was suppose to read from the text file to populate the menu.
 
